@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 👨‍💻 All of my projects are available at [https://brentvervaet-dev.vercel.app](https://brentvervaet-dev.vercel.app)
+- 👨‍💻 All of my projects are available at [brentvervaet.dev](https://brentvervaet.dev)
 
 - 📫 How to reach me **<brent.vervaet@icloud.com>**
 
