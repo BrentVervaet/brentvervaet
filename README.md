@@ -15,7 +15,7 @@ I am currently completing my internship at **Endoo (by Endare)** (Feb 2026 – M
 
 - 🛠️ **The Project:** Developing a documentation/manual module (inspired by manual.to) integrated directly into the **Odoo platform**.
 - 💻 **Stack:** Daily development in **Python**, **XML**, and **Bootstrap**.
-- 📍 **Location:** Based in **Gent** / **Brugge**, Belgium.
+- 📍 **Location:** Based in **Ghent**, Belgium.
 
 ---
 
