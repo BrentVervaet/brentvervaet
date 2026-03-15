@@ -56,7 +56,6 @@ I am currently completing my internship at **Endoo (by Endare)** (Feb 2026 – M
 ---
 
 ### ⚡ Fun Fact
-When I'm not configuring Odoo modules or debugging Python, you can find me:
 * Playing **bass guitar** 🎸
 * Practicing my swing on the **golf course** 🏌️‍♂️
 
