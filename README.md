@@ -40,4 +40,38 @@ I am currently completing my internship at **Endoo (by Endare)** (Feb 2026 – M
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>Testing & DevOps & Tools</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+</details>
+
+---
+
+### ⚡ Fun Fact
+* **Musician:** I play the bass guitar 🎸
+* **Athlete:** You can find me on the golf course practicing my swing 🏌️‍♂️
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
