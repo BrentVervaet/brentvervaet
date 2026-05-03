@@ -2,9 +2,8 @@
 <h3 align="center">Software Developer | Applied Informatics Student</h3>
 
 <p align="center">
-  <a href="https://brentvervaet.dev" target="_blank"><img src="https://img.shields.io/badge/Website-brentvervaet.dev-0ea5e9?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
+  <a href="https://brentvervaet.dev" target="_blank"><img src="https://img.shields.io/badge/Website-brentvervaet.dev-0ea5e9?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/brentvervaet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:brent.vervaet@icloud.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-64748b?style=for-the-badge&logo=apple&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
