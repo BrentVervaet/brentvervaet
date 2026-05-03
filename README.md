@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brent</h1>
-<h3 align="center">Software Developer Intern @ Endoo | Applied Informatics Student</h3>
+<h3 align="center">Software Developer | Applied Informatics Student</h3>
 
 <p align="center">
   <a href="https://brentvervaet.dev" target="_blank"><img src="https://img.shields.io/badge/Website-brentvervaet.dev-0ea5e9?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
