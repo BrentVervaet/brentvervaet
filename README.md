@@ -68,9 +68,3 @@ I am currently a Software Developer Intern at **Endoo (by Endare)** in **Ghent**
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-</p>
