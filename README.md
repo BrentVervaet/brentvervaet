@@ -59,54 +59,6 @@ I'm a passionate full-stack developer from **Ghent, Belgium** with a strong focu
 
 ---
 
-## 🎯 Featured Projects
-
-### 🔧 [Manual.to for Odoo](https://github.com/BrentVervaet)
-*Feb - May 2026 | Internship Project @ Endoo*
-
-A complete native Odoo module to replace the expensive Manual.to SaaS platform. Built from scratch with full CRUD operations, AI-powered translations, text-to-speech, QR code generation, and sales module integration.
-
-**Tech Stack:** Python, Odoo 19, OWL (JavaScript), PostgreSQL, AWS Bedrock (Claude), AWS Polly, QWeb
-
-**Key Features:**
-- ✅ Complete manual management system with step-by-step instructions
-- ✅ Built-in video trimmer for editing instruction videos
-- ✅ AI-powered translations (AWS Bedrock) to 20+ languages
-- ✅ Text-to-Speech with native Web Speech API and AWS Polly
-- ✅ QR code generation for easy manual access
-- ✅ Responsive web portal for end-users
-- ✅ Direct integration with Odoo sales and product modules
-
-### 🌐 [Personal Portfolio](https://brentvervaet.dev)
-*My modern portfolio built with Next.js 16*
-
-A high-performance, SEO-optimized portfolio showcasing my projects and blog posts.
-
-**Tech Stack:** Next.js 16, TypeScript, Tailwind CSS 4, MDX, Framer Motion
-
-**Highlights:**
-- ⚡ 98+ Lighthouse performance score
-- 🎨 Custom glassmorphism design system
-- 📝 MDX-powered blog with syntax highlighting
-- 🌓 Dark mode support
-- 📱 Fully responsive
-
-### 📱 [RealDealMe](https://github.com/BrentVervaet)
-*iOS social networking app with AI-powered authenticity verification*
-
-A SwiftUI-based social platform focused on authentic content sharing.
-
-**Tech Stack:** SwiftUI, MVVM, Core Data
-
-### 🎵 [TuneWithMe](https://github.com/BrentVervaet)
-*Collaborative music queue web application*
-
-Real-time collaborative music queue system for shared listening experiences.
-
-**Tech Stack:** Vue.js, Spring Boot, WebSockets
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -114,28 +66,6 @@ Real-time collaborative music queue system for shared listening experiences.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrentVervaet&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Last Day at Endoo: Reflecting on 14 Weeks of Building Manual.to for Odoo](https://brentvervaet.dev/blog/endoo-internship-reflection)
-- [First Day at Endoo: New Beginnings and Odoo Adventures](https://brentvervaet.dev/blog/first-day-endoo-internship)
-- [Building a Modern Portfolio with Next.js 16](https://brentvervaet.dev/blog/modern-portfolio-nextjs)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://brentvervaet.dev/blog)
-
----
-
-## 🏆 Achievements
-
-- 🎓 **Bachelor's Degree** in Applied Computer Science (HOGENT)
-- 💼 **Internship** at Endoo by Endare - Built production-ready Odoo module
-- 🏗️ **Solo Project** - Delivered MVP replacing expensive SaaS platform
-- 🤖 **AI Integration** - Implemented AWS Bedrock translations and Polly TTS
-- 🌐 **Open Source** - Contributing to developer tools and documentation
 
 ---
 
